@@ -13,10 +13,15 @@ Step 1 – Basic eligibility
  
 Step 2 – Income-based admission (only if age ≥ 16 and score ≥ 60) 
 Use if-elif-else on family income: 
-Income range				Decision
-Less than $30,000			"Admitted with full scholarship" 
-$30,000 – $79,999 			"Admitted with partial scholarship"  
-$80,000 or more 			"Admitted without scholarship"
+Income range				
+1- Less than $30,000			
+2- $30,000 – $79,999 		 
+3- $80,000 or more 			
+
+Decision
+1- "Admitted with full scholarship" 
+2- "Admitted with partial scholarship"
+3- "Admitted without scholarship"
 Step 3 – Output 
 Print the name followed by the decision message. 
  
